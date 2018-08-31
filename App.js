@@ -23,7 +23,7 @@ export default class App extends Component<Props> {
       <View style={styles.container}>
         <Text style={styles.welcome}>Welcome to React Native!</Text>
         <Text style={styles.instructions}>Hi World!</Text>
-        <Text style={styles.instructions}>{instructions} this should work now</Text>
+        <Text style={styles.instructions}>{instructions} this should work now again</Text>
       </View>
     );
   }
